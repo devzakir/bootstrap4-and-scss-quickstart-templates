@@ -1,0 +1,64 @@
+/* ==== Normalize start ==== */
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0; }
+
+html,
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  height: 100%;
+  width: 100%; }
+
+img {
+  border: 0px; }
+
+ol,
+ul,
+li {
+  list-style-type: none; }
+
+a {
+  color: #1abc9c;
+  display: inline-block;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease; }
+
+a:hover, a:focus {
+  color: #16a085;
+  text-decoration: none; }
+
+p {
+  font-size: 14px;
+  line-height: 24px; }
+
+/* ==== Normalize ends ==== */
+/* ==== Reusable style start ==== */
+.animate {
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease; }
+
+/* ==== Reusable style ends ==== */
+/* ==== header start ==== */
+header {
+  background-color: #1abc9c; }
+
+/* ==== header ends ==== */
+/* ==== section start ==== */
+section {
+  padding: 90px 0 100px; }
+
+/* ==== section ends ==== */
+/* ==== footer start ==== */
+footer {
+  background-color: #595959;
+  padding: 15px 0; }
+  footer p {
+    color: #fff;
+    margin: 0; }
+
+/* ==== footer ends ==== */
+/* ==== Responsive CSS ==== */
+/* ==== CSS comment start ==== */
+/* ==== CSS comment ends ==== */
